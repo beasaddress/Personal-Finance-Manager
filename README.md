@@ -26,6 +26,9 @@ When the user navigates to the application, they must sign in or create an accou
 Once logged in, the user is greeted with a dashboard that shows snapshot summary of their current financial health. <br>
 The navigation bar can be utilized to explore user options including: payments, recurring debits and accounts.
 
+## Screenshot
+![image](https://github.com/beasaddress/Personal-Finance-Manager/assets/126925408/f4b91e8b-e7db-4e44-a4cc-ff61941e5af8)
+
 
 ## Demo
 
